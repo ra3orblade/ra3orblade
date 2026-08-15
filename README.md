@@ -1,44 +1,8 @@
 ```
+◇ senior front-end engineer & architect · berlin
+◇ founder, brainstorm — a desktop os for you and your ai
+◇ site  →  https://razorbladez.vercel.app
 
-
-                                     ◆
-                                   ╱ │ ╲
-                                ╱    │    ╲
-                             ╱       │       ╲
-                          ◆──────────●──────────◆
-                          │ ╲        │        ╱ │
-                          │   ╲      │      ╱   │
-                          │     ╲    │    ╱     │
-                          │       ╲  │  ╱       │
-                          ◆──────────●──────────◆
-                             ╲       │       ╱
-                                ╲    │    ╱
-                                   ╲ │ ╱
-                                     ◆
-
-
-      █████╗ ███╗   ██╗██████╗ ██████╗ ███████╗██╗    ██╗
-     ██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔════╝██║    ██║
-     ███████║██╔██╗ ██║██║  ██║██████╔╝█████╗  ██║ █╗ ██║
-     ██╔══██║██║╚██╗██║██║  ██║██╔══██╗██╔══╝  ██║███╗██║
-     ██║  ██║██║ ╚████║██████╔╝██║  ██║███████╗╚███╔███╔╝
-     ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚══╝╚══╝
-
-     ███████╗██╗███╗   ███╗ █████╗  ██████╗██╗  ██╗███████╗██╗   ██╗
-     ██╔════╝██║████╗ ████║██╔══██╗██╔════╝██║  ██║██╔════╝██║   ██║
-     ███████╗██║██╔████╔██║███████║██║     ███████║█████╗  ██║   ██║
-     ╚════██║██║██║╚██╔╝██║██╔══██║██║     ██╔══██║██╔══╝  ╚██╗ ██╔╝
-     ███████║██║██║ ╚═╝ ██║██║  ██║╚██████╗██║  ██║███████╗ ╚████╔╝
-     ╚══════╝╚═╝╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝  ╚═══╝
-
-     ◇ senior front-end engineer & architect · berlin
-     ◇ founder, brainstorm — a desktop os for you and your ai
-     ◇ site  →  https://razorbladez.vercel.app
-
-────────────────────────────────────────────────────────────────────────────────
-```
-
-```
  ◇ ─── W H O I S ───────────────────────────────────────────────────────────  ◇
 
    15+ years building production web applications, designing component
@@ -50,27 +14,6 @@
    primary development tool, spec-driven workflows as the default, and
    agentic multi-step tasks where i orchestrate subagents instead of
    writing every line by hand.
-```
-
-```
- ◇ ─── N O W ───────────────────────────────────────────────────────────────  ◇
-
-
-         ┌──────────┐   ┌──────────┐   ┌──────────┐   ┌──────────┐
-         │  Notes   │   │ Database │   │  Graph   │   │  Agent   │
-         └────┬─────┘   └────┬─────┘   └────┬─────┘   └────┬─────┘
-              │              │              │              │
-              └──────────────┴──────┬───────┴──────────────┘
-                                    │
-                          ╔═════════▼═════════╗
-                          ║ capability broker ║   fails closed
-                          ╚═════════╤═════════╝
-                                    │
-                          ┌─────────▼─────────┐
-                          │  one typed object │
-                          │  space, on disk   │
-                          └───────────────────┘
-
 
    B R A I N S T O R M — local-first knowledge product modeled as a
    desktop: a wallpaper, icons, windows, and twenty sandboxed apps all
@@ -83,9 +26,7 @@
    signed and notarized builds for macos, windows and linux
 
    → https://getbrainstorm.online
-```
 
-```
  ◇ ─── S T A C K ───────────────────────────────────────────────────────────  ◇
 
    language ────────── typescript strict
@@ -96,9 +37,7 @@
    graphics ────────── three.js · d3 · pixijs · webgl
    data ────────────── sqlite · postgresql · mongodb
    practice ────────── claude code · specs · subagents
-```
 
-```
  ◇ ─── T I M E L I N E ─────────────────────────────────────────────────────  ◇
 
    ●  2026 —      Brainstorm ................ Founder · Berlin
@@ -115,50 +54,11 @@
    │
    ●  2004 — 2010 Astrum Online ............. Full-stack Engineer · Moscow
                   browser-based mmo uis, server logic, back-office tooling
-```
 
-```
- ◇ ─── S E L E C T E D   W O R K ───────────────────────────────────────────  ◇
-
-   • Brainstorm ............ desktop os for you and your ai — twenty
-                             sandboxed apps over one local vault
-   • Agent harness ......... agents driving headless shells through
-                             playwright; dogfood runs that file their
-                             own friction log
-   • Anytype client ........ built the front-end from scratch —
-                             open source, local-first, cross-platform
-   • AI-native rewrite ..... mostly solo, spec-driven: electron → tauri
-                             v2, contenteditable → lexical, sass →
-                             tailwind v4, webpack → vite + bun
-   • Block editor .......... 20+ block types, slash commands,
-                             drag-and-drop, keyboard-first
-   • Database UI ........... seven view types over one dataset —
-                             grid, list, gallery, board, calendar,
-                             graph, timeline
-   • Knowledge graph ....... force-directed d3 layout over reactive
-                             mobx stores, streamed from local db
-   • Release pipeline ...... signing, notarization and auto-update
-                             for macos, windows and linux
-```
-
-```
- ◇ ─── P R A C T I C E ─────────────────────────────────────────────────────  ◇
-
-   the spec is the unit of work: written first, reviewed like code,
-   executed against. subagents take research and isolated changes in
-   parallel. skills and hooks collapse the workflows i repeat weekly
-   into one command. the awkward migrations went the same way — jquery
-   pulled out of the codebase, a full mobx-react-lite conversion, rspack
-   swapped for vite and bun — each one a spec the model worked through
-   rather than a run of hand edits.
-
-   it changed my sense of how much one engineer can own.
-```
-
-```
  ◇ ─── E L S E W H E R E ───────────────────────────────────────────────────  ◇
 
    site ────────────── https://razorbladez.vercel.app
+   lineofsites ─────── https://lineofsites.com
    brainstorm ──────── https://getbrainstorm.online
    npm ─────────────── @react-fancy-menus/core
                        https://www.npmjs.com/package/@react-fancy-menus/core
@@ -168,16 +68,3 @@
 ```
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ra3orblade&theme=tokyonight" />
-
-```
-
-
-                                     ◆
-                                   ╱   ╲
-                                ◆────────◆
-                                   ╲   ╱
-                                     ◆
-
-
-                              END  OF  TRANSMISSION
-```
