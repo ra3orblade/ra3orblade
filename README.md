@@ -58,7 +58,7 @@
  ◇ ─── E L S E W H E R E ───────────────────────────────────────────────────  ◇
 
    site ────────────── https://razorbladez.vercel.app
-   swarm ───────────── https://github.com/ra3orblade/swarm
+   swarm ───────────── https://getswarm.vercel.app/
    lineofsites ─────── https://lineofsites.com
    brainstorm ──────── https://getbrainstorm.online
    npm ─────────────── @react-fancy-menus/core
