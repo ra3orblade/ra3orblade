@@ -15,9 +15,8 @@ Signed and notarized builds for macOS, Windows and Linux
 
 ### ◇ STACK
 
-| | |
-|---|---|
 | **language** | TypeScript strict |
+|---|---|
 | **ui** | React 19 · Lexical · Tailwind v4 |
 | **state** | MobX · Yjs CRDTs · gRPC streaming |
 | **desktop** | Tauri v2 · Rust · Electron |
@@ -28,9 +27,8 @@ Signed and notarized builds for macOS, Windows and Linux
 
 ### ◇ TIMELINE
 
-| | | |
-|---|---|---|
 | **2026 —** | [Brainstorm](https://getbrainstorm.online) · Founder · Berlin | local-first knowledge os, capability-governed sandbox |
+|---|---|---|
 | **2021 — 2026** | [Anytype.io](https://anytype.io) · Sr. FE Engineer & Architect | founding engineer · ai-native rewrite, electron → tauri |
 | **2018 — 2021** | [devtodev](https://www.devtodev.com) · CTO · Vilnius | 15 engineers · greenplum move cut query times 60% |
 | **2010 — 2018** | Game Insight · Senior Developer · Vilnius | narr8 (500k+ downloads), real-time social chat |
@@ -38,9 +36,8 @@ Signed and notarized builds for macOS, Windows and Linux
 
 ### ◇ ELSEWHERE
 
-| | |
-|---|---|
 | **site** | [razorbladez.vercel.app](https://razorbladez.vercel.app) |
+|---|---|
 | **swarm** | [getswarm.vercel.app](https://getswarm.vercel.app/) |
 | **lineofsites** | [lineofsites.com](https://lineofsites.com) |
 | **brainstorm** | [getbrainstorm.online](https://getbrainstorm.online) |
