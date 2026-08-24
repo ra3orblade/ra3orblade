@@ -15,35 +15,41 @@ Signed and notarized builds for macOS, Windows and Linux
 
 ### ◇ STACK
 
-| **language** | TypeScript strict |
-|---|---|
-| **ui** | React 19 · Lexical · Tailwind v4 |
-| **state** | MobX · Yjs CRDTs · gRPC streaming |
-| **desktop** | Tauri v2 · Rust · Electron |
-| **build** | Vite · Bun · Rolldown |
-| **graphics** | Three.js · D3 · PixiJS · WebGL |
-| **data** | SQLite · PostgreSQL · MongoDB |
-| **practice** | Claude Code · specs · subagents |
+`language ─────────` TypeScript strict<br>
+`ui ───────────────` React 19 · Lexical · Tailwind v4<br>
+`state ────────────` MobX · Yjs CRDTs · gRPC streaming<br>
+`desktop ──────────` Tauri v2 · Rust · Electron<br>
+`build ────────────` Vite · Bun · Rolldown<br>
+`graphics ─────────` Three.js · D3 · PixiJS · WebGL<br>
+`data ─────────────` SQLite · PostgreSQL · MongoDB<br>
+`practice ─────────` Claude Code · specs · subagents
 
 ### ◇ TIMELINE
 
-| **2026 —** | [Brainstorm](https://getbrainstorm.online) · Founder · Berlin | local-first knowledge os, capability-governed sandbox |
-|---|---|---|
-| **2021 — 2026** | [Anytype.io](https://anytype.io) · Sr. FE Engineer & Architect | founding engineer · ai-native rewrite, electron → tauri |
-| **2018 — 2021** | [devtodev](https://www.devtodev.com) · CTO · Vilnius | 15 engineers · greenplum move cut query times 60% |
-| **2010 — 2018** | Game Insight · Senior Developer · Vilnius | narr8 (500k+ downloads), real-time social chat |
-| **2004 — 2010** | Astrum Online · Full-stack Engineer · Moscow | browser-based mmo uis, server logic, back-office tooling |
+`2026 — now  ` **[Brainstorm](https://getbrainstorm.online)** · Founder · Berlin<br>
+`            ` <sub>local-first knowledge os, capability-governed sandbox</sub>
+
+`2021 — 2026 ` **[Anytype.io](https://anytype.io)** · Sr. FE Engineer & Architect<br>
+`            ` <sub>founding engineer · ai-native rewrite, electron → tauri</sub>
+
+`2018 — 2021 ` **[devtodev](https://www.devtodev.com)** · CTO · Vilnius<br>
+`            ` <sub>15 engineers · greenplum move cut query times 60%</sub>
+
+`2010 — 2018 ` **Game Insight** · Senior Developer · Vilnius<br>
+`            ` <sub>narr8 (500k+ downloads), real-time social chat</sub>
+
+`2004 — 2010 ` **Astrum Online** · Full-stack Engineer · Moscow<br>
+`            ` <sub>browser-based mmo uis, server logic, back-office tooling</sub>
 
 ### ◇ ELSEWHERE
 
-| **site** | [razorbladez.vercel.app](https://razorbladez.vercel.app) |
-|---|---|
-| **swarm** | [getswarm.vercel.app](https://getswarm.vercel.app/) |
-| **lineofsites** | [lineofsites.com](https://lineofsites.com) |
-| **brainstorm** | [getbrainstorm.online](https://getbrainstorm.online) |
-| **npm** | [@react-fancy-menus/core](https://www.npmjs.com/package/@react-fancy-menus/core) |
-| **linkedin** | [linkedin.com/in/ra3orblade](https://linkedin.com/in/ra3orblade) |
-| **x** | [x.com/Ra3orbladez](https://x.com/Ra3orbladez) |
-| **mail** | [andrew.simachev@gmail.com](mailto:andrew.simachev@gmail.com) |
+`site ─────────────` [razorbladez.vercel.app](https://razorbladez.vercel.app)<br>
+`swarm ────────────` [getswarm.vercel.app](https://getswarm.vercel.app/)<br>
+`lineofsites ──────` [lineofsites.com](https://lineofsites.com)<br>
+`brainstorm ───────` [getbrainstorm.online](https://getbrainstorm.online)<br>
+`npm ──────────────` [@react-fancy-menus/core](https://www.npmjs.com/package/@react-fancy-menus/core)<br>
+`linkedin ─────────` [linkedin.com/in/ra3orblade](https://linkedin.com/in/ra3orblade)<br>
+`x ────────────────` [x.com/Ra3orbladez](https://x.com/Ra3orbladez)<br>
+`mail ─────────────` [andrew.simachev@gmail.com](mailto:andrew.simachev@gmail.com)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ra3orblade&theme=tokyonight" />
