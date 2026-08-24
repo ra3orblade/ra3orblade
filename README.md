@@ -35,10 +35,10 @@ Signed and notarized builds for macOS, Windows and Linux
 `2018 — 2021 ` **[devtodev](https://www.devtodev.com)** · CTO · Vilnius<br>
 `            ` <sub>15 engineers · greenplum move cut query times 60%</sub>
 
-`2010 — 2018 ` **Game Insight** · Senior Developer · Vilnius<br>
+`2010 — 2018 ` **[Game Insight](https://www.game-insight.com)** · Senior Developer · Vilnius<br>
 `            ` <sub>narr8 (500k+ downloads), real-time social chat</sub>
 
-`2004 — 2010 ` **Astrum Online** · Full-stack Engineer · Moscow<br>
+`2004 — 2010 ` **[Astrum Online](https://astrum-entertainment.ru)** · Full-stack Engineer · Moscow<br>
 `            ` <sub>browser-based mmo uis, server logic, back-office tooling</sub>
 
 ### ◇ ELSEWHERE
