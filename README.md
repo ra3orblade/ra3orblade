@@ -50,6 +50,6 @@ Signed and notarized builds for macOS, Windows and Linux
 `npm ──────────────` [@react-fancy-menus/core](https://www.npmjs.com/package/@react-fancy-menus/core)<br>
 `linkedin ─────────` [linkedin.com/in/ra3orblade](https://linkedin.com/in/ra3orblade)<br>
 `x ────────────────` [x.com/Ra3orbladez](https://x.com/Ra3orbladez)<br>
-`mail ─────────────` [andrew.simachev@gmail.com](mailto:andrew.simachev@gmail.com)
+`mail ─────────────` [founder@getbrainstorm.online](mailto:founder@getbrainstorm.online)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ra3orblade&theme=tokyonight" />
