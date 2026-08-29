@@ -1,5 +1,4 @@
 ◇ senior front-end engineer & architect · berlin<br>
-◇ founder, [brainstorm](https://getbrainstorm.online) — a desktop os for you and your ai<br>
 ◇ site → [razorbladez.vercel.app](https://razorbladez.vercel.app)
 
 ### ◇ WHOIS
@@ -8,26 +7,21 @@
 
 For the past year I have been working AI-natively — Claude Code as a primary development tool, spec-driven workflows as the default, and agentic multi-step tasks where I orchestrate subagents instead of writing every line by hand.
 
-**[Brainstorm](https://getbrainstorm.online)** — local-first knowledge product modeled as a desktop: a wallpaper, icons, windows, and twenty sandboxed apps all reading and writing one object space in a folder on your disk. Every app and every AI call crosses a capability broker that checks a per-vault ledger of grants. Security as an architectural boundary, not an add-on.
-
 Electron shell · Yjs CRDTs · Block Protocol · Lexical · SQLite · Rust<br>
 Signed and notarized builds for macOS, Windows and Linux
 
 ### ◇ STACK
 
-`language ─────────` TypeScript strict<br>
-`ui ───────────────` React 19 · Lexical · Tailwind v4<br>
+`language ─────────` TypeScript · JS · Go · Rust · PHP<br>
+`ui ───────────────` React · Lexical · Tailwind v4<br>
 `state ────────────` MobX · Yjs CRDTs · gRPC streaming<br>
-`desktop ──────────` Tauri v2 · Rust · Electron<br>
-`build ────────────` Vite · Bun · Rolldown<br>
+`desktop ──────────` Tauri · Rust · Electron<br>
+`build ────────────` Vite · Bun · Rolldown · Webpack<br>
 `graphics ─────────` Three.js · D3 · PixiJS · WebGL<br>
 `data ─────────────` SQLite · PostgreSQL · MongoDB<br>
 `practice ─────────` Claude Code · specs · subagents
 
 ### ◇ TIMELINE
-
-`2026 — now  ` **[Brainstorm](https://getbrainstorm.online)** · Founder · Berlin<br>
-`            ` <sub>local-first knowledge os, capability-governed sandbox</sub>
 
 `2021 — 2026 ` **[Anytype.io](https://anytype.io)** · Sr. FE Engineer & Architect<br>
 `            ` <sub>founding engineer · ai-native rewrite, electron → tauri</sub>
