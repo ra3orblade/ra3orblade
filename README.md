@@ -19,17 +19,12 @@ For the past year I have been working AI-natively — Claude Code as a primary d
 
 ### ◇ Timeline
 
-`2021 — 2026 ` **[Anytype.io](https://anytype.io)** · Sr. FE Engineer & Architect<br>
-`            ` <sub>founding engineer · ai-native rewrite, electron → tauri</sub>
-
-`2018 — 2021 ` **[devtodev](https://www.devtodev.com)** · CTO · Vilnius<br>
-`            ` <sub>15 engineers · greenplum move cut query times 60%</sub>
-
-`2010 — 2018 ` **[Game Insight](https://www.game-insight.com)** · Senior Developer · Vilnius<br>
-`            ` <sub>narr8 (500k+ downloads), real-time social chat</sub>
-
-`2004 — 2010 ` **[Astrum Online](https://astrum-entertainment.ru)** · Full-stack Engineer · Moscow<br>
-`            ` <sub>browser-based mmo uis, server logic, back-office tooling</sub>
+`2026 — ──────────────` **[Bees & Bears](http://beesandbears.com)** · Senior Front-end Engineer · Berlin, Germany<br>
+`2021 — 2026 ─────────` **[Anytype](https://anytype.io)** · Senior Front-end Engineer & Architect · Berlin, Germany<br>
+`2018 — 2021 ─────────` **[devtodev](https://devtodev.com)** · CTO · Vilnius, Lithuania<br>
+`2011 — 2013 ─────────` **[Talkover](https://talkover.com)** · Team Lead · Phuket, Thailand<br>
+`2010 — 2011 ─────────` **[Game Insight](https://game-insight.com)** · Senior Full-stack Engineer · Vilnius, Lithuania<br>
+`2004 — 2010 ─────────` **[Astrum Online](https://astrum-entertainment.ru)** · Senior Full-stack Engineer · Moscow, Russia<br>
 
 ### ◇ Elsewhere
 
