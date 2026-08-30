@@ -13,10 +13,10 @@ Signed and notarized builds for macOS, Windows and Linux
 ### ◇ STACK
 
 `language ─────────` TypeScript · JS · Node · Go · Rust · PHP<br>
-`ui ───────────────` React · Lexical · Tailwind · SASS<br>
+`ui ───────────────` React · Next · Astro · Lexical · Tailwind · SASS · Storybook<br>
 `state ────────────` MobX · Yjs · gRPC<br>
 `desktop ──────────` Tauri · Electron<br>
-`build ────────────` Vite · Bun · Rolldown · Webpack<br>
+`build ────────────` Vite · Bun · Rolldown · Webpack · Gulp<br>
 `graphics ─────────` Three.js · D3 · PixiJS · WebGL · Canvas<br>
 `data ─────────────` SQLite · PostgreSQL · MongoDB · MySQL · Redis<br>
 `practice ─────────` Claude Code · Grok Build · SDD · Loops
