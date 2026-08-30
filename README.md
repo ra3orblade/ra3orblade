@@ -10,7 +10,7 @@ For the past year I have been working AI-natively — Claude Code as a primary d
 
 `language ─────────` TypeScript · JS · Node · Go · Rust · PHP<br>
 `ui ───────────────` React · Next · Astro · Lexical · Tailwind · SASS · Storybook<br>
-`state ────────────` MobX · Yjs · gRPC<br>
+`state ────────────` MobX · Flux · Yjs · gRPC<br>
 `desktop ──────────` Tauri · Electron<br>
 `build ────────────` Vite · Bun · Rolldown · Webpack · Gulp<br>
 `graphics ─────────` Three.js · D3 · PixiJS · WebGL · Canvas<br>
