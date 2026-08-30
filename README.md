@@ -4,11 +4,7 @@
 ### ◇ WHOIS
 
 15+ years building production web applications, designing component architectures and leading cross-functional engineering teams. Founding engineer of an open-source, local-first knowledge-management platform used by thousands of people.
-
 For the past year I have been working AI-natively — Claude Code as a primary development tool, spec-driven workflows as the default, and agentic multi-step tasks where I orchestrate subagents instead of writing every line by hand.
-
-Electron shell · Yjs CRDTs · Block Protocol · Lexical · SQLite · Rust<br>
-Signed and notarized builds for macOS, Windows and Linux
 
 ### ◇ STACK
 
